@@ -26,3 +26,7 @@ class Solution:
                 matrix[col][row] = temp
 
         return matrix
+    
+# Medium. 
+# Time: reverse vertically takes O(N/2 * N) = O(N sq), transpose takes O(N/2 * N) = O(N sq). Total: O(N sq)
+# Space: O(1)
