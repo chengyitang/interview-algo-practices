@@ -1,17 +1,20 @@
 import unittest
+from collections import defaultdict
 
 def identifyNonTwinPerson(inputArr: list[int]) -> int:
 
-    freq = {}
-
+    # Create frequency list
+    freq = defaultdict(int)
     for num in inputArr:
-        freq[num] = freq.get(num, 0) + 1
+        freq[num] += 1
 
+    # Find the "smallest" non-twin
+    min_non_twin = float('inf')
     for num in inputArr:
         if freq[num] == 1:
-            return num  
+            min_non_twin = min(min_non_twin, num)
         
-    return -1
+    return min_non_twin if min_non_twin != float('inf') else -1
         
 class TestFindMaximumDifference(unittest.TestCase):
     def test_case_1(self):
