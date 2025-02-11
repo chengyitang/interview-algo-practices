@@ -2,6 +2,7 @@ Review:
 560. Subarray Sum Equals K
 215. Kth Largest Element in an Array (quickselect)
 146. LRU Cache (double linked list)
+138. Copy List with Random Pointer (hashmap)
 
 
 Seen in interview:
