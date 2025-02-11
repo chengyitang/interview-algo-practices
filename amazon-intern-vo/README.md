@@ -1,0 +1,40 @@
+# LeetCode Problem Review
+
+## Need to Review
+- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (prefix sum)
+- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (heap / quickselect)
+- [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) (heap)
+- [146. LRU Cache](https://leetcode.com/problems/lru-cache/) (OrderedDict / double linked list)
+- [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (hashmap)
+- [207, 210. Course Schedule I & II](https://leetcode.com/problems/course-schedule/) (graph, dfs, topological sort)
+- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) (math)
+
+## Recent Interview Questions (Last Month)
+
+| Problem | Follow-up Topics | Status |
+|---------|-----------------|---------|
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | ✅ |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Bucket Sort | ✅ |
+| [207. Course Schedule I](https://leetcode.com/problems/course-schedule/) | BFS/DFS | ✅ |
+| [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | BFS/DFS | ✅ |
+| [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Heap | ✅ |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | ✅ |
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | | |
+| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | | |
+| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | | |
+| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Prefix Sum | ✅ |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/) | Tree-DFS | |
+| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Tree-DFS | |
+| [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Tree-DFS | |
+| [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Stack/Monotonic Stack | |
+| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Stack/Monotonic Stack | |
+| [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | Stack/Monotonic Stack | |
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | BFS | ✅ |
+| [1136. Parallel Courses](https://leetcode.com/problems/parallel-courses/) | | |
+| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | |
+| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | |
+| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Heap | |
+
+### References
+- [295. Find Median from Data Stream (Solution)](https://leetcode.com/problems/find-median-from-data-stream/solutions/696658/python-logic-explained-with-2-heaps-clean-code/) 
