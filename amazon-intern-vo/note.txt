@@ -1,9 +1,18 @@
 Review:
-560. Subarray Sum Equals K
-215. Kth Largest Element in an Array (quickselect)
-146. LRU Cache (double linked list)
+560. Subarray Sum Equals K (prefix sum)
+215. Kth Largest Element in an Array (heap / quickselect)
+767. Reorganize String (heap)
+146. LRU Cache (OrderedDict / double linked list)
 138. Copy List with Random Pointer (hashmap)
+207 210. Course Schedule I & II (graph, dfs, topological sort)  
+9. Palindrome Number (math)
 
 
 Seen in interview:
 347. Top K Frequent Elements
+207. Course Schedule I
+210. Course Schedule II
+767. Reorganize String
+3. Longest Substring Without Repeating Characters
+543. Diameter of Binary Tree
+295. Find Median from Data Stream
