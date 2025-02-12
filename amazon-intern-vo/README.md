@@ -30,8 +30,7 @@
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (Hard)| | |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (Hard) | Heap | |
 | OOD: 春節gift card with value K, holiday 期間要用完。record all purchases in this period. Check if there’s a substring 剛好可以用完這個value。 + follow ups| | |
-| OOD: Let's say you're building a distributed system on AWS. Every single component (EC2, Lambda, S3, etc.) of the system generates logs. The logs are sent to Amazon CloudWatch Logs. Design a function to read the logs from a certain time range and count the occurence of certain keywords like "Error" or "Warning". 
-analyze_log(componenet_name, start_time, end_time, keywords) -> dict{keyword, count} | | |
+| OOD: Let's say you're building a distributed system on AWS. Every single component (EC2, Lambda, S3, etc.) of the system generates logs. The logs are sent to Amazon CloudWatch Logs. Design a function to read the logs from a certain time range and count the occurence of certain keywords like "Error" or "Warning". analyze_log(componenet_name, start_time, end_time, keywords) -> dict{keyword, count} | | |
 
 ### References
 - [295. Find Median from Data Stream (Solution)](https://leetcode.com/problems/find-median-from-data-stream/solutions/696658/python-logic-explained-with-2-heaps-clean-code/) 
