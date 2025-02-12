@@ -1,14 +1,5 @@
 # LeetCode Problem Review
 
-## Need to Review
-- [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (prefix sum)
-- [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (heap / quickselect)
-- [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) (heap)
-- [146. LRU Cache](https://leetcode.com/problems/lru-cache/) (OrderedDict / double linked list)
-- [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (hashmap)
-- [207, 210. Course Schedule I & II](https://leetcode.com/problems/course-schedule/) (graph, dfs, topological sort)
-- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) (math)
-
 ## Recent Interview Questions (Last Month)
 
 | Problem | Follow-up Topics | Status |
