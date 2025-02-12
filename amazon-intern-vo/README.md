@@ -19,7 +19,7 @@
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | BFS/DFS | ✅ |
 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Heap | ✅ |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | ✅ |
-| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | | |
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | | ✅ |
 | [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | | |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | | |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Prefix Sum | ✅ |
@@ -32,9 +32,13 @@
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | |
 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | BFS | ✅ |
 | [1136. Parallel Courses](https://leetcode.com/problems/parallel-courses/) | | |
-| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | |
-| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | |
-| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Heap | |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 142 | ✅ |
+| [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | | ✅|
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | |
+| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (Hard) | how to merge k l-l maitain a minheap k sized | |
+| [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (Hard)| | |
+| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (Hard) | Heap | |
+| OOD: 春節gift card with value K, holiday 期間要用完。record all purchases in this period. Check if there’s a substring 剛好可以用完這個value。 + follow ups| | |
 
 ### References
 - [295. Find Median from Data Stream (Solution)](https://leetcode.com/problems/find-median-from-data-stream/solutions/696658/python-logic-explained-with-2-heaps-clean-code/) 

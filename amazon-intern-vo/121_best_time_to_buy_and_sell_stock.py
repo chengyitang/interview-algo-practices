@@ -8,6 +8,7 @@ class Solution:
             max_profit = max(max_profit, p - min_price)
         return max_profit
     
-# Easy. Array. Keep track of the min price and max profit
-# Time: O(N)
+# Easy. Array. 
+# Peak Valley Approach: Keep track of the min price and max profit
+# Time: O(n)
 # Space: O(1)
