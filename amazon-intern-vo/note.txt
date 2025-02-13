@@ -7,6 +7,7 @@ Review:
 207 210. Course Schedule I & II (graph, dfs, topological sort)  
 9. Palindrome Number (math)
 543. Diameter of Binary Tree (tree dfs)
+503. Next Greater Element II (monotonic stack)
 
 295 answer:
 https://leetcode.com/problems/find-median-from-data-stream/solutions/696658/python-logic-explained-with-2-heaps-clean-code/

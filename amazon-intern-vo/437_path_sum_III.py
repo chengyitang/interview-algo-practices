@@ -9,3 +9,4 @@ class Solution:
 
         if not root:
             return 0
+        
