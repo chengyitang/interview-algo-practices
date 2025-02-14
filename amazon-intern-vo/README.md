@@ -1,6 +1,7 @@
 # LeetCode Problem Review
 
-## Current Solved Problems Number: 45/211 (21.3%, 2025-02) | 57/211 (27%, all-time)
+## Current Solved Problems Number: 
+45/211 (21.3%, 2025-02) | 57/211 (27%, all-time)
 
 ## Recent Interview Questions (Last Month)
 
