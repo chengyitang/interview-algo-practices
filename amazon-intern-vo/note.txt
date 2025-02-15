@@ -42,6 +42,11 @@ Matrix DFS:
 Matrix BFS:
 994. Rotting Oranges (matrix, bfs)   
 
+DP:
+70. Climbing Stairs (dp)
+509. Fibonacci Number (dp)
+
+
 Math:
 9. Palindrome Number (math)
 50. Pow(x, n) (math)

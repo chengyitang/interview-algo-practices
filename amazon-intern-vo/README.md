@@ -2,6 +2,7 @@
 
 ## Current Solved Problems Number: 
 Feb. 2025:  45/211 (21.3%)
+
 All-time:   57/211 (27%)
 
 ## Recent Interview Questions (Last Month)
@@ -9,7 +10,9 @@ All-time:   57/211 (27%)
 | Problem | Follow-up Topics | Status |
 |---------|-----------------|---------|
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | ✅ |
+| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | ✅ |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Bucket Sort | ✅ |
+| [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | BST | ✅ |
 | [207. Course Schedule I](https://leetcode.com/problems/course-schedule/) | BFS/DFS | ✅ |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | BFS/DFS | ✅ |
 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Heap | ✅ |
@@ -29,6 +32,7 @@ All-time:   57/211 (27%)
 | [1136. Parallel Courses](https://leetcode.com/problems/parallel-courses/) | | |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 142 | ✅ |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | | ✅|
+| [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | | |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | |
 | [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (Hard) | how to merge k linked list maitain a minheap k sized | |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (Hard)| | |
