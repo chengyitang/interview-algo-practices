@@ -28,6 +28,7 @@ Tree DFS:
 543. Diameter of Binary Tree (tree dfs)
 112. Path Sum (tree dfs)
 113. Path Sum II (tree dfs)
+2385. Amount of Time for Binary Tree to Be Infected (tree dfs)
 
 Tree BFS:
 
