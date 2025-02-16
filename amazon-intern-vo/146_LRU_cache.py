@@ -11,7 +11,7 @@ class LRUCache:
      
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.cache = {}
+        self.cache = {} # key: node
         self.head = Node()
         self.tail = Node()
         self.head.next = self.tail

@@ -25,12 +25,13 @@ class Solution:
             
             result.extend([char1, char2])
             
+            # push the remaining freq back to heap
             if freq1 + 1 < 0:
                 heapq.heappush(heap, (freq1 + 1, char1))
             if freq2 + 1 < 0:
                 heapq.heappush(heap, (freq2 + 1, char2))
         
-        # 4. 處理最後一個字符
+        # 4. 處理最後一個字符 odd length
         if heap:
             freq, char = heapq.heappop(heap)
             result.append(char)
@@ -38,7 +39,7 @@ class Solution:
         return ''.join(result)
     
 # Medium (hard). Heap
-# Time: O(n log n)
+# Time: O(n log n) n is the number of unique characters
 # Space: O(n)
 
 # 重點：

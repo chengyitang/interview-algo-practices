@@ -34,7 +34,7 @@ All-time:   57/211 (27%)
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | | ✅|
 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | | |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | ✅ |
-| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (Hard) | how to merge k linked list maitain a minheap k sized | |
+| [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) (Hard) | how to merge k linked list maitain a minheap k sized | ✅ |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (Hard)| | |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (Hard) | Heap | |
 | OOD: 春節gift card with value K, holiday 期間要用完。record all purchases in this period. Check if there’s a substring 剛好可以用完這個value。 + follow ups| | |
