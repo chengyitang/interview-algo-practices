@@ -1,9 +1,9 @@
 # LeetCode Problem Review
 
 ## Current Solved Problems Number: 
-Feb. 2025:  45/211 (21.3%)
+Feb. 2025:  53/211 (25%)
 
-All-time:   57/211 (27%)
+All-time:   65/211 (30%)
 
 ## Recent Interview Questions (Last Month)
 
