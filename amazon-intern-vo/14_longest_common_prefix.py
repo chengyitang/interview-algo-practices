@@ -1,14 +1,26 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         
-        # check null
-        if len(strs) == 0:
-            return ""
+        """
+        ["training", "trainer", "train"]
+        longest common prefix string = "train"
 
+        ["abc", "def", "ghi"]
+        return ""
+
+
+        LCP = "training"
+        go through all chars in trainer:
+        'e' - > "train"
+        """
+
+        if not strs:
+            return ""
+        
         prefix = strs[0]
-        for i in range(1, len(strs)):
-            while not strs[i].startswith(prefix):
-                prefix = prefix[:-1]
+        for s in strs[1:]:
+            while not s.startswith(prefix):
+                prefix = prefix[:-1] # remove last
                 if prefix == "":
                     return ""
         return prefix

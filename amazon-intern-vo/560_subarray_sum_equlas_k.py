@@ -2,22 +2,22 @@ class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
 
         # find how many way that (current sum - prefix sum = k)
-        
-        subarray_count = 0
-        d = { 0:1 } # prefix sum : count
-        cur_sum = 0
-
-        for num in nums:
-            cur_sum += num
-            if cur_sum - k in d:
-                subarray_count += d[cur_sum - k]
+        # 概念：在當前的subarray中，有多少prefix sum可以等於current sum - k
             
-            # update cur_sum count
-            d[cur_sum] = d.get(cur_sum, 0) + 1
+        counts = 0
+        prefixCounts = defaultdict(int)
+        prefixCounts[0] += 1
+        currentSum = 0
 
-        return subarray_count
+        for n in nums:
+            currentSum += n
+            if currentSum - k in prefixCounts:
+                counts += prefixCounts[currentSum - k]
+            prefixCounts[currentSum] += 1
+        return counts
 
 # Medium
 # Array, Hash Table
+
 # Time: O(n)
 # Space: O(n)   
