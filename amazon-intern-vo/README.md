@@ -16,10 +16,8 @@ All-time:   65/211 (30%)
 | [207. Course Schedule I](https://leetcode.com/problems/course-schedule/) | BFS/DFS | ✅ |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | BFS/DFS | ✅ |
 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Heap | ✅ |
-| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | | ✅ |
-| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | | ✅ |
-| [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | | |
-| [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | | |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | (122) | ✅ |
+| [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | (309, 714) | ✅ |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Prefix Sum | ✅ |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/) | Tree-DFS | ✅ |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Tree-DFS | ✅ |
