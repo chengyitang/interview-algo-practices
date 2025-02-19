@@ -15,6 +15,9 @@ All-time:   65/211 (30%)
 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | BST | ✅ |
 | [207. Course Schedule I](https://leetcode.com/problems/course-schedule/) | BFS/DFS | ✅ |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | BFS/DFS | ✅ |
+| [1136. Parallel Courses](https://leetcode.com/problems/parallel-courses/) | | |
+| [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | DFS | ✅ |
+| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | BFS | ✅ |
 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | Heap | ✅ |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | (122) | ✅ |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | (309, 714) | ✅ |
@@ -23,11 +26,8 @@ All-time:   65/211 (30%)
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) | Tree-DFS | ✅ |
 | [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) | Tree-DFS | |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Stack/Monotonic Stack | ✅ |
-| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Stack/Monotonic Stack | ✅ |
-| [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | Stack/Monotonic Stack | |
+| [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | Stack/Monotonic Stack, 556 | ✅ |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | | ✅ |
-| [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | BFS | ✅ |
-| [1136. Parallel Courses](https://leetcode.com/problems/parallel-courses/) | | |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 142 | ✅ |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | | ✅|
 | [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | | |
